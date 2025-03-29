@@ -6,7 +6,7 @@ To address this, we propose the **Retrieval Judgment Augmented Generation (RJAG)
 Experiments on multiple benchmarks show that RJAG outperforms existing RAG methods, significantly enhancing accuracy and reliability while maintaining system simplicity.
 <div align=center>
   <img src="https://github.com/wangkz2023/RJAG/blob/main/img/figure1.png" width=60%>
-  <img src="https://github.com/wangkz2023/RJAG/blob/main/img/RJAG.png" width=60%>
+  <img src="https://github.com/wangkz2023/RJAG/blob/main/img/RJAG.png" width=80%>
 </div>
 
 ## Requirements
