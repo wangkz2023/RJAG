@@ -21,4 +21,5 @@ pip install -r requirements.txt
 ## Download
 - Download the **eval_data** created by [Self-RAG (Asai et al., 2023)](https://github.com/AkariAsai/self-rag) on PopQA, PubQA, Bio and Arc_challenge with retrieved results
 - Download the **data** from [RJAG-data](https://drive.google.com/drive/folders/1E-n1p4r0VLSKL8a0su3PRGtX6_dtqtSF?usp=sharing)
+- If you need finetuned_t5_evaluator, you can download from [CRAG (Yan et al., 2024)](https://github.com/HuskyInSalt/CRAG)
 
