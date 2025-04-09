@@ -15,6 +15,8 @@ which will significantly enhance the accuracy and reliability while maintaining 
 
 <div align="center">
   <img src="https://github.com/wangkz2023/RJAG/blob/main/img/figure1.png" width="80%">
+
+  
   <img src="https://github.com/wangkz2023/RJAG/blob/main/img/RJAG.png" width="100%">
 </div>
 
