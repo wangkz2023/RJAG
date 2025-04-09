@@ -14,11 +14,11 @@ Experimental results on multiple benchmarks show that RJAG outperforms existing 
 which will significantly enhance the accuracy and reliability while maintaining the system's simplicity.
 
 <div align="center">
-  <img src="https://github.com/wangkz2023/RJAG/blob/main/img/figure1.pdf" width="80%">
+  <img src="https://github.com/wangkz2023/RJAG/blob/main/img/figure1.png" width="80%">
 </div>
 
 <div align="center">
-  <img src="https://github.com/wangkz2023/RJAG/blob/main/img/RJAG.pdf" width="100%">
+  <img src="https://github.com/wangkz2023/RJAG/blob/main/img/RJAG.png" width="100%">
 </div>
 
 ## Requirements
